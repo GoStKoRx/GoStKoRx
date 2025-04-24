@@ -1,4 +1,4 @@
-# 👋, I'm Fatih:
+# Hi 👋, I'm Fatih:
 A passionate software developer from Türkiye<br>
 
 
